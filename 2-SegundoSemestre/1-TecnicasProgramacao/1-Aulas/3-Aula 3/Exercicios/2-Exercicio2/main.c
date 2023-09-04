@@ -10,10 +10,10 @@ int main(){
 	scanf("%f",&n1);
 	printf("\nDigite a nota 2: ");
 	scanf("%f",&n2);
-	med = media(n1,n2);
+	med = media(n1,n2); //enviando n1 e n2 para a função, med recebendo o resultado
 	printf("\n %1.f", med);
 	return 0;
 }
-float media(float nota1, float nota2){
-	return (nota1+nota2)/2;
+float media(float nota1, float nota2){ // nota1 e nota2 recebendo n1 e n2
+	return (nota1+nota2)/2; 
 }
