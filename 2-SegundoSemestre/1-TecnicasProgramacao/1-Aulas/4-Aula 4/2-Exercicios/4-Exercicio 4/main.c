@@ -13,16 +13,16 @@ int main() {
 	printf("\nDigite um número: ");
 	scanf("%d",&val2);
 	res = op(val1,val2);
-	printf("\n Resultado: %.0f", res);
+	printf("\n Razão: %.0f", res);
 	return 0;
 }
 
 float op (float aux1, float aux2){
 	if (aux1 == 0 || aux2 == 0){
+		printf("\nImpossível dividir por zero");
 		return res = 0;
 	}else{
-		aux1/aux2;
-		return res = 1;
+		return aux1/aux2;
 	}
 	return;
 }

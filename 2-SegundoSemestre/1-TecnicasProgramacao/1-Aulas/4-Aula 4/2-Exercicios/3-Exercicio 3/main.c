@@ -1,20 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-#include <math.h>
 
-float op (float val);
-float val1, res;
+void op (float val);
 
 int main() {
 	setlocale(LC_ALL,"");
+	float val1;
 	printf("\nDigite o valor de um quadrado: ");
 	scanf("%f",&val1);
-	res = op(val1);
-	printf("\n Área do quadrado: %.2f", res);
+	op(val1);
 	return 0;
 }
 
-float op (float val){
-	return pow(val,2);
+void op (float val){
+	printf("\n Área do quadrado: %.2f", val*val);
+	return;
 }
