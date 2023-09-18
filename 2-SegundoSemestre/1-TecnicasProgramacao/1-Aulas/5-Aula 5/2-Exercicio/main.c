@@ -22,18 +22,14 @@ int main() {
 			}
  		}
 	}
-	printf("\nOrdenado em ordem decrescente: \n");
-	for(i=5; i>=0;i--){
-		printf("\n %d ", valores[i]);
-	}
+	//Somando todas as posições do vetor
 	for(i=0; i<6; i++){
 	
 		som = valores[i] + som;
 	}
 	printf("\nSoma: %.2f", som);
 	printf("\nMédia: %.2f", som/6);
-	
-	printf("\n \nMenor valor: %d", valores[0]);
+	printf("\nMenor valor: %d", valores[0]);
 	printf("\nMaior valor: %d", valores[5]);
 	return 0;
 }
