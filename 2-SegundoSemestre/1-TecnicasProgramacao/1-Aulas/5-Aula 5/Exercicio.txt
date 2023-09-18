@@ -1,0 +1,15 @@
+Dado o vetor V com 6 posições.
+
+1)cadastrar valores no vetor V.
+2)mostrar vetor de trás para frente  (inverso a ordem de entrada)
+3)organizar o vetor em ordem crescente
+4)cálculo da soma dos valores de um vetor
+5)cálculo da média dos valores de um vetor
+6)maior e menor valor de um vetor 
+
+8   0   2   1   6  10
+10  6   1   2   0   8   ordem inversa
+0   1   2   6   8   10  ordem crescente
+
+
+
