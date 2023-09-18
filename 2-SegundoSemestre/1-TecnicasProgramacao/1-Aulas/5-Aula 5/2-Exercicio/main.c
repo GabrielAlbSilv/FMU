@@ -22,7 +22,15 @@ int main() {
 			}
  		}
 	}
-	//Somando todas as posições do vetor
+	printf("\nOrdenado em ordem crescente: \n");
+	for(i=0; i<6;i++){
+		printf("\n %d ", valores[i]);
+	}
+	
+	printf("\nOrdenado em ordem decrescente: \n");
+	for(i=5; i>=0;i--){
+		printf("\n %d ", valores[i]);
+	}
 	for(i=0; i<6; i++){
 	
 		som = valores[i] + som;
