@@ -1,0 +1,93 @@
+﻿Exercício
+
+Criar um vetor, do tipo int, com 10 posições 
+
+1.	leitura e escrita de valores em um vetor
+2.	preenchimento do vetor com valores
+3.	mostrar vetor de trás para frente
+4.	cálculo da soma dos valores de um vetor
+5.	cálculo da média dos valores de um vetor
+6.	maior e menor valor de um vetor 
+================================================
+
+
+#include <stdio.h>
+
+int main() {
+  int v[10],i,aux,pi,pt;
+  void imprimeInverso(int v[]);
+  int maiorValor(int v[]);
+  int menorValor(int v[]);
+  int soma(int v[]);
+
+ for (i=0;i<=9;i++)
+    {
+        printf("Informe um número: ");
+        scanf("%i",&v[i]);
+    }
+    //chamando a função imprimeInverso
+    imprimeInverso(v);
+    
+    //ordenando o vetor - Bubble Sort
+    for (pi=0; pi<9; pi++)
+    {
+        for (pt=pi+1;pt<=9;pt++)
+        {
+            //comparando-se os valores
+            if(v[pi]>v[pt]) {
+                //trocar
+                aux=v[pi];
+                v[pi]=v[pt];
+                v[pt]=aux;
+            }
+        }
+    }
+    //imprimir o vetor ordenado
+    printf("\nVetor ordenado\n");
+    for(i=0;i<=9;i++)
+    {
+       printf("%d ",v[i]); 
+    }
+    //imprimindo o maior valor do vetor ordenado
+    printf("\nMaior valor do vetor ordenado: %d", maiorValor(v));
+    
+    //imprimindo o menor valor do vetor ordenado
+    printf("\nMenor valor do vetor ordenado: %d", menorValor(v));
+    
+    //imprimindo a soma dos valores do vetor 
+    printf("\nSoma = %d", soma(v));
+    
+    //imprimindo a média dos valores do vetor 
+    printf("\nMédia = %d", soma(v)/10);
+    return 0;
+}   
+   
+  //área onde estão as funções 
+  void imprimeInverso(int v[])
+{
+    printf("\nVetor impresso na ordem inversa\n");
+    for(int i=9;i>=0;i--)
+    {
+       printf("%d ",v[i]); 
+    }
+    return;
+ }
+ 
+ int maiorValor(int v[])
+ {
+     return v[9];
+ }
+ 
+ int menorValor(int v[])
+ {
+     return v[0];
+ }
+ 
+ int soma(int v[])
+ {
+     int total=0;  //variável acumuladora
+     for (int i=0;i<=9;i++)
+     {   total = total + v[i]; }
+     return total;
+ }
+ 
