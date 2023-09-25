@@ -7,6 +7,7 @@ int main() {
 	void imprimeInv(int vet[]);
 	int maiorVal(int vet[]);
 	int menorVal(int vet[]);
+	int somaVal(int vet[]);
 	setlocale(LC_ALL,"");
 	for(i=0;i<=9;i++){
 		printf("\nDigite um número: (%d): ",i+1);
@@ -28,6 +29,8 @@ int main() {
 	imprimeInv(vet);
 	printf("\nMaior valor: %d", maiorVal(vet));
 	printf("\nMaior valor: %d", menorVal(vet));
+	printf("\nSoma: %d ",somaVal(vet));
+	printf("\nMédia: %d ",somaVal(vet)/10);
 	return 0;
 }
 void imprimeInv(int vet[]){
@@ -44,4 +47,10 @@ int maiorVal(int vet[]){
 int menorVal(int vet[]){
 	return vet[0];
 }
-
+int somaVal(int vet[]){
+	int i, total=0;
+	for(i=0;i<=9;i++){
+		total = vet[i] + total;
+	}
+	return total;
+}
