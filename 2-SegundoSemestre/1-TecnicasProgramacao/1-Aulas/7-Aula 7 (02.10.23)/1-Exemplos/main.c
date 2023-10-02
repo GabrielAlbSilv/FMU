@@ -25,8 +25,8 @@ int main() {
 	scanf("%d",&num);
 	
 	//Pesquisa binária
-	ini=1;
-	fim=10;
+	ini=0;
+	fim=9;
 	while (ini <= fim && achou == 'f'){
 		
 		meio=(ini+fim)/2;
@@ -43,7 +43,7 @@ int main() {
 	
 	}
 	if(achou=='v'){
-		printf("\nO Número %d foi encontrado na posição %d", num, meio);
+		printf("\nO número %d foi encontrado na posição %d", num, meio);
 	}else{
 		printf("\nO número: %d não foi encontrado",num);
 	}
