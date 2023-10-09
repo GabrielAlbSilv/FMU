@@ -1,43 +1,46 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include <locale.h>
 
+
 int main() {
-	int v[10], i, aux, pi, pt,num, ini, meio, fim;
-	char achou='f';
+	int v[11]={26, 65, 45, 73, 10, 18, 78, 93, 70, 49, 23, 22};
+	int v1[5], v2[5], i;
+	int aux,pi,pt, ini, fim, meio;
 	setlocale(LC_ALL,"");
-	for(i=0; i<10;i++){
-		
-		printf("Digite um valor: (x%d) \n",i+1);
-		scanf("%d",&v[i]);
-	}
-	//ordenando em ordem crescente -bubble sort
-	for(pi=0;pi<9;pi++){
-		for(pt=pi+1;pt<10;pt++){
+	
+	for(pi=0;pi<11;pi++){
+		for(pt = pi+1; pt<=11; pt++){
 			if(v[pi]>v[pt]){
 				aux=v[pi];
 				v[pi]=v[pt];
-				v[pt]=aux;	
+				v[pt]=aux;
 			}
 		}
 	}
-	for(i=0;ini<10;i++){
-		printf(" %d", v[i]);
+	printf("\nVetor v:  ");
+	for(aux=0;aux<=11;aux++){
+		printf(" %d ",v[aux]);
 	}
-	printf("\nDigite um número para ser encontrado: ");
-	scanf("%d",&num);
-
-	//Pesquisa binária
-	ini=0;
-	fim=9;
-	meio=(ini+fim)/2;
-	printf("\nMeio: %d \n \n",v[meio]);
-	for(i=ini;ini<meio;i++){
-		printf("Vetor 1: %d", v[i]);
+	i=0;
+	for(aux=0;aux<5;aux++){
+		v1[i]=v[aux];
+		i++;
 	}
-		meio=(ini+fim)/2;
-	for(i=meio+1;ini<fim;i++){
-		printf(" %d", v[i]);
+	i=0;
+	for(aux=6;aux<=11;aux++){
+		v2[i]=v[aux];
+		i++;
+	}
+	
+	printf("\nVetor v1: ");
+	for(i=0;i<=5;i++){
+		printf(" %d ",v1[i]);
+	}
+	
+	printf("\nVetor v2: ");
+	for(i=0;i<=5;i++){
+		printf(" %d ",v2[i]);
 	}
 	
 	return 0;
