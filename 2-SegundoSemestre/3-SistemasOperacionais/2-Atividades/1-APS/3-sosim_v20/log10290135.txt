@@ -1,0 +1,240 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+9 : Processo 3534063 alocacao de blocos no pagefile
+9 : Processo 3534063 HwPF - Executável0
+9 : Processo 3534063 HwPF - Executável1
+9 : Processo 3534063 HwPF - Executável2
+9 : Processo 3534063 HwPF - Executável3
+9 : Processo 3534063 HwPF - Executável4
+9 : Processo 3534063 criado
+10 : Processo 3534063 Pronto -> Exec
+11 : Processo 3534063 Exec -> Pronto por tempo
+12 : Processo 3534063 Pronto -> Exec
+13 : Processo 3534063 Exec -> Pronto por tempo
+14 : Processo 3534063 Pronto -> Exec
+15 : Processo 3534063 Exec -> Pronto por tempo
+16 : Processo 3534063 Pronto -> Exec
+17 : Processo 3534063 Exec -> Pronto por tempo
+18 : Processo 3534063 Pronto -> Exec
+19 : Processo 3534063 Exec -> Pronto por tempo
+20 : Processo 3534063 Pronto -> Exec
+21 : Processo 3534063 Exec -> Pronto por tempo
+22 : Processo 3534063 Pronto -> Exec
+23 : Processo 3534063 Exec -> Pronto por tempo
+24 : Processo 3534063 Pronto -> Exec
+25 : Processo 3534063 Exec -> Pronto por tempo
+26 : Processo 3534063 Pronto -> Exec
+27 : Processo 3534063 Exec -> Pronto por tempo
+28 : Processo 3534063 Pronto -> Exec
+29 : Processo 3534063 Exec -> Pronto por tempo
+30 : Processo 3534063 Pronto -> Exec
+31 : Processo 3534063 Exec -> Pronto por tempo
+32 : Processo 3534063 Pronto -> Exec
+33 : Processo 3534063 Exec -> Pronto por tempo
+34 : Processo 3534063 Pronto -> Exec
+35 : Processo 3534063 Exec -> Pronto por tempo
+36 : Processo 3534063 Pronto -> Exec
+37 : Processo 3534063 Exec -> Pronto por tempo
+38 : Processo 3534063 Pronto -> Exec
+39 : Processo 3534063 Exec -> Pronto por tempo
+40 : Processo 3534063 Pronto -> Exec
+40 : Processo 3534063 Executando -> Suspenso
+148 : Processo 3754560 alocacao de blocos no pagefile
+148 : Processo 3754560 HwPF - Executável0
+148 : Processo 3754560 HwPF - Executável1
+148 : Processo 3754560 HwPF - Executável2
+148 : Processo 3754560 HwPF - Executável3
+148 : Processo 3754560 HwPF - Executável4
+148 : Processo 3754560 criado
+148 : Processo 3754667 alocacao de blocos no pagefile
+148 : Processo 3754667 HwPF - Executável0
+148 : Processo 3754667 HwPF - Executável1
+148 : Processo 3754667 HwPF - Executável2
+148 : Processo 3754667 HwPF - Executável3
+148 : Processo 3754667 HwPF - Executável4
+148 : Processo 3754667 criado
+149 : Processo 3754560 Pronto -> Exec
+150 : Processo 3754560 Exec -> Pronto por tempo
+151 : Processo 3754667 Pronto -> Exec
+152 : Processo 3754667 Exec -> Pronto por tempo
+153 : Processo 3754560 Pronto -> Exec
+154 : Processo 3754560 Exec -> Pronto por tempo
+155 : Processo 3754667 Pronto -> Exec
+156 : Processo 3754667 Exec -> Pronto por tempo
+157 : Processo 3754560 Pronto -> Exec
+158 : Processo 3754560 Exec -> Pronto por tempo
+159 : Processo 3754667 Pronto -> Exec
+160 : Processo 3754667 Exec -> Pronto por tempo
+161 : Processo 3754560 Pronto -> Exec
+162 : Processo 3754560 Exec -> Pronto por tempo
+163 : Processo 3754667 Pronto -> Exec
+164 : Processo 3754667 Exec -> Pronto por tempo
+165 : Processo 3754560 Pronto -> Exec
+166 : Processo 3754560 Exec -> Pronto por tempo
+167 : Processo 3754667 Pronto -> Exec
+168 : Processo 3754667 Exec -> Pronto por tempo
+169 : Processo 3754560 Pronto -> Exec
+170 : Processo 3754560 Exec -> Pronto por tempo
+171 : Processo 3754667 Pronto -> Exec
+172 : Processo 3754667 Exec -> Pronto por tempo
+173 : Processo 3754560 Pronto -> Exec
+174 : Processo 3754560 Exec -> Pronto por tempo
+175 : Processo 3754667 Pronto -> Exec
+176 : Processo 3754667 Exec -> Pronto por tempo
+177 : Processo 3754560 Pronto -> Exec
+178 : Processo 3754560 Exec -> Pronto por tempo
+179 : Processo 3754667 Pronto -> Exec
+180 : Processo 3754667 Exec -> Pronto por tempo
+181 : Processo 3754560 Pronto -> Exec
+182 : Processo 3754560 Exec -> Pronto por tempo
+183 : Processo 3754667 Pronto -> Exec
+184 : Processo 3754667 Exec -> Pronto por tempo
+185 : Processo 3754560 Pronto -> Exec
+186 : Processo 3754560 Exec -> Pronto por tempo
+187 : Processo 3754667 Pronto -> Exec
+188 : Processo 3754667 Exec -> Pronto por tempo
+189 : Processo 3754560 Pronto -> Exec
+190 : Processo 3754560 Exec -> Pronto por tempo
+191 : Processo 3754667 Pronto -> Exec
+192 : Processo 3754667 Exec -> Pronto por tempo
+193 : Processo 3754560 Pronto -> Exec
+194 : Processo 3754560 Exec -> Pronto por tempo
+195 : Processo 3754667 Pronto -> Exec
+196 : Processo 3754667 Exec -> Pronto por tempo
+197 : Processo 3754560 Pronto -> Exec
+198 : Processo 3754560 Exec -> Pronto por tempo
+199 : Processo 3754667 Pronto -> Exec
+200 : Processo 3754667 Exec -> Pronto por tempo
+201 : Processo 3754560 Pronto -> Exec
+202 : Processo 3754560 Exec -> Pronto por tempo
+203 : Processo 3754667 Pronto -> Exec
+204 : Processo 3754667 Exec -> Pronto por tempo
+205 : Processo 3754560 Pronto -> Exec
+205 : Processo 3754560 Executando -> Suspenso
+206 : Processo 3754667 Pronto -> Exec
+207 : Processo 3754667 Exec -> Pronto por tempo
+208 : Processo 3754667 Pronto -> Exec
+209 : Processo 3754667 Exec -> Pronto por tempo
+210 : Processo 3754667 Pronto -> Exec
+210 : Processo 3754667 Executando -> Suspenso
+616 : Processo 4547237 alocacao de blocos no pagefile
+616 : Processo 4547237 HwPF - Executável0
+616 : Processo 4547237 HwPF - Executável1
+616 : Processo 4547237 HwPF - Executável2
+616 : Processo 4547237 HwPF - Executável3
+616 : Processo 4547237 HwPF - Executável4
+616 : Processo 4547237 criado
+617 : Processo 4547237 Pronto -> Exec
+618 : Processo 4547237 Exec -> Pronto por tempo
+619 : Processo 4547237 Pronto -> Exec
+620 : Processo 4547237 Exec -> Pronto por tempo
+621 : Processo 4547237 Pronto -> Exec
+621 : Processo 4547237 Executando -> Suspenso
+702 : Processo 4547237 Pronto -> Exec
+703 : Processo 4547237 Exec -> Pronto por tempo
+704 : Processo 4547237 Pronto -> Exec
+705 : Processo 4547237 Exec -> Pronto por tempo
+706 : Processo 4547237 Pronto -> Exec
+706 : Processo 4718037 alocacao de blocos no pagefile
+706 : Processo 4718037 HwPF - Executável0
+706 : Lista de pags livres menor que80%
+706 : Iniciando Swap
+706 : Processo 3534063 suspenso outswapped
+706 : Processo 4718037 HwPF - Executável1
+706 : Processo 4718037 HwPF - Executável2
+706 : Processo 4718037 HwPF - Executável3
+706 : Processo 4718037 HwPF - Executável4
+706 : Processo 4718037 criado
+707 : Processo 4547237 Exec -> Pronto por tempo
+708 : Processo 4547237 Pronto -> Exec
+709 : Processo 4547237 Exec -> Pronto por tempo
+710 : Processo 4547237 Pronto -> Exec
+711 : Processo 4547237 Exec -> Pronto por tempo
+712 : Processo 4547237 Pronto -> Exec
+713 : Processo 4547237 Exec -> Pronto por tempo
+714 : Processo 4547237 Pronto -> Exec
+715 : Processo 4547237 Exec -> Pronto por tempo
+716 : Processo 4547237 Pronto -> Exec
+717 : Processo 4547237 Exec -> Pronto por tempo
+718 : Processo 4547237 Pronto -> Exec
+719 : Processo 4547237 Exec -> Pronto por tempo
+720 : Processo 4547237 Pronto -> Exec
+721 : Processo 4547237 Exec -> Pronto por tempo
+722 : Processo 4547237 Pronto -> Exec
+723 : Processo 4547237 Exec -> Pronto por tempo
+724 : Processo 4547237 Pronto -> Exec
+725 : Processo 4547237 Exec -> Pronto por tempo
+726 : Processo 4547237 Pronto -> Exec
+727 : Processo 4547237 Exec -> Pronto por tempo
+728 : Processo 4547237 Pronto -> Exec
+729 : Processo 4547237 Exec -> Pronto por tempo
+730 : Processo 4547237 Pronto -> Exec
+731 : Processo 4547237 Exec -> Pronto por tempo
+732 : Processo 4547237 Pronto -> Exec
+733 : Processo 4547237 Exec -> Pronto por tempo
+734 : Processo 4547237 Pronto -> Exec
+735 : Processo 4547237 Exec -> Pronto por tempo
+736 : Processo 4547237 Pronto -> Exec
+737 : Processo 4547237 Exec -> Pronto por tempo
+738 : Processo 4547237 Pronto -> Exec
+739 : Processo 4547237 Exec -> Pronto por tempo
+740 : Processo 4547237 Pronto -> Exec
+741 : Processo 4547237 Exec -> Pronto por tempo
+742 : Processo 4547237 Pronto -> Exec
+743 : Processo 4547237 Exec -> Pronto por tempo
+744 : Processo 4547237 Pronto -> Exec
+745 : Processo 4547237 Exec -> Pronto por tempo
+746 : Processo 4547237 Pronto -> Exec
+747 : Processo 4547237 Exec -> Pronto por tempo
+748 : Processo 4547237 Pronto -> Exec
+749 : Processo 4547237 Exec -> Pronto por tempo
+750 : Processo 4547237 Pronto -> Exec
+751 : Processo 4547237 Exec -> Pronto por tempo
+752 : Processo 4547237 Pronto -> Exec
+753 : Processo 4547237 Exec -> Pronto por tempo
+754 : Processo 4547237 Pronto -> Exec
+755 : Processo 4547237 Exec -> Pronto por tempo
+756 : Processo 4547237 Pronto -> Exec
+757 : Processo 4547237 Exec -> Pronto por tempo
+758 : Processo 4547237 Pronto -> Exec
+758 : Processo 4547237 Executando -> Suspenso
+759 : Processo 4718037 Pronto -> Exec
+760 : Processo 4718037 Exec -> Pronto por tempo
+761 : Processo 4718037 Pronto -> Exec
+762 : Processo 4718037 Exec -> Pronto por tempo
+763 : Processo 4718037 Pronto -> Exec
+764 : Processo 4718037 Exec -> Pronto por tempo
+765 : Processo 4718037 Pronto -> Exec
+766 : Processo 4718037 Exec -> Pronto por tempo
+767 : Processo 4718037 Pronto -> Exec
+768 : Processo 4718037 Exec -> Pronto por tempo
+769 : Processo 4718037 Pronto -> Exec
+770 : Processo 4718037 Exec -> Pronto por tempo
+771 : Processo 4718037 Pronto -> Exec
+772 : Processo 4718037 Exec -> Pronto por tempo
+773 : Processo 4718037 Pronto -> Exec
+774 : Processo 4718037 Exec -> Pronto por tempo
+775 : Processo 4718037 Pronto -> Exec
+776 : Processo 4718037 Exec -> Pronto por tempo
+777 : Processo 4718037 Pronto -> Exec
+778 : Processo 4718037 Exec -> Pronto por tempo
+779 : Processo 4718037 Pronto -> Exec
+780 : Processo 4718037 Exec -> Pronto por tempo
+781 : Processo 4718037 Pronto -> Exec
+782 : Processo 4718037 Exec -> Pronto por tempo
+783 : Processo 4718037 Pronto -> Exec
+784 : Processo 4718037 Exec -> Pronto por tempo
+785 : Processo 4718037 Pronto -> Exec
+786 : Processo 4718037 Exec -> Pronto por tempo
+787 : Processo 4718037 Pronto -> Exec
+788 : Processo 4718037 Exec -> Pronto por tempo
+789 : Processo 4718037 Pronto -> Exec
+789 : Processo 4718037 Executando -> Suspenso
+1244 : Processo 4718037 Pronto -> Exec
+1245 : Processo 4718037 Exec -> Pronto por tempo
+1246 : Processo 4718037 Pronto -> Exec
+1247 : Processo 4718037 Exec -> Pronto por tempo
+1248 : Processo 4718037 Pronto -> Exec
+1249 : Processo 4718037 Exec -> Pronto por tempo
+1250 : Processo 4718037 Pronto -> Exec
+1250 : Processo 4718037 Executando -> Suspenso

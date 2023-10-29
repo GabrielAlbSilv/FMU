@@ -1,0 +1,95 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+105 : Processo 2013232 alocacao de blocos no pagefile
+105 : Processo 2013232 HwPF - Executável0
+105 : Processo 2013232 HwPF - Executável1
+105 : Processo 2013232 HwPF - Executável2
+105 : Processo 2013232 HwPF - Executável3
+105 : Processo 2013232 HwPF - Executável4
+105 : Processo 2013232 criado
+106 : Processo 2013232 Pronto -> Exec
+107 : Processo 2013232 Exec -> Pronto por tempo
+108 : Processo 2013232 Pronto -> Exec
+109 : Processo 2013232 Exec -> Pronto por tempo
+110 : Processo 2013232 Pronto -> Exec
+111 : Processo 2013232 Exec -> Pronto por tempo
+112 : Processo 2013232 Pronto -> Exec
+113 : Processo 2013232 Exec -> Pronto por tempo
+114 : Processo 2013232 Pronto -> Exec
+115 : Processo 2013232 Exec -> Pronto por tempo
+116 : Processo 2013232 Pronto -> Exec
+117 : Processo 2013232 Exec -> Pronto por tempo
+118 : Processo 2013232 Pronto -> Exec
+119 : Processo 2013232 Exec -> Pronto por tempo
+120 : Processo 2013232 Pronto -> Exec
+121 : Processo 2013232 Exec -> Pronto por tempo
+122 : Processo 2013232 Pronto -> Exec
+123 : Processo 2013232 Exec -> Pronto por tempo
+124 : Processo 2013232 Pronto -> Exec
+125 : Processo 2013232 Exec -> Pronto por tempo
+126 : Processo 2013232 Pronto -> Exec
+127 : Processo 2013232 Exec -> Pronto por tempo
+128 : Processo 2013232 Pronto -> Exec
+129 : Processo 2013232 Exec -> Pronto por tempo
+130 : Processo 2013232 Pronto -> Exec
+131 : Processo 2013232 Exec -> Pronto por tempo
+132 : Processo 2013232 Pronto -> Exec
+133 : Processo 2013232 Exec -> Pronto por tempo
+134 : Processo 2013232 Pronto -> Exec
+135 : Processo 2013232 Exec -> Pronto por tempo
+136 : Processo 2013232 Pronto -> Exec
+137 : Processo 2013232 Exec -> Pronto por tempo
+138 : Processo 2013232 Pronto -> Exec
+139 : Processo 2013232 Exec -> Pronto por tempo
+140 : Processo 2013232 Pronto -> Exec
+141 : Processo 2013232 Exec -> Pronto por tempo
+142 : Processo 2013232 Pronto -> Exec
+143 : Processo 2013232 Exec -> Pronto por tempo
+144 : Processo 2013232 Pronto -> Exec
+145 : Processo 2013232 Exec -> Pronto por tempo
+146 : Processo 2013232 Pronto -> Exec
+147 : Processo 2013232 Exec -> Pronto por tempo
+148 : Processo 2013232 Pronto -> Exec
+149 : Processo 2013232 Exec -> Pronto por tempo
+150 : Processo 2013232 Pronto -> Exec
+151 : Processo 2013232 Exec -> Pronto por tempo
+152 : Processo 2013232 Pronto -> Exec
+153 : Processo 2013232 Exec -> Pronto por tempo
+154 : Processo 2013232 Pronto -> Exec
+155 : Processo 2013232 Exec -> Pronto por tempo
+156 : Processo 2013232 Pronto -> Exec
+157 : Processo 2013232 Exec -> Pronto por tempo
+158 : Processo 2013232 Pronto -> Exec
+159 : Processo 2013232 Exec -> Pronto por tempo
+160 : Processo 2013232 Pronto -> Exec
+161 : Processo 2013232 Exec -> Pronto por tempo
+162 : Processo 2013232 Pronto -> Exec
+163 : Processo 2013232 Exec -> Pronto por tempo
+164 : Processo 2013232 Pronto -> Exec
+165 : Processo 2013232 Exec -> Pronto por tempo
+166 : Processo 2013232 Pronto -> Exec
+167 : Processo 2013232 Exec -> Pronto por tempo
+168 : Processo 2013232 Pronto -> Exec
+169 : Processo 2013232 Exec -> Pronto por tempo
+170 : Processo 2013232 Pronto -> Exec
+171 : Processo 2013232 Exec -> Pronto por tempo
+172 : Processo 2013232 Pronto -> Exec
+173 : Processo 2013232 Exec -> Pronto por tempo
+174 : Processo 2013232 Pronto -> Exec
+175 : Processo 2013232 Exec -> Pronto por tempo
+176 : Processo 2013232 Pronto -> Exec
+177 : Processo 2013232 Exec -> Pronto por tempo
+178 : Processo 2013232 Pronto -> Exec
+179 : Processo 2013232 Exec -> Pronto por tempo
+180 : Processo 2013232 Pronto -> Exec
+181 : Processo 2013232 Exec -> Pronto por tempo
+182 : Processo 2013232 Pronto -> Exec
+183 : Processo 2013232 Exec -> Pronto por tempo
+184 : Processo 2013232 Pronto -> Exec
+185 : Processo 2013232 Exec -> Pronto por tempo
+186 : Processo 2013232 Pronto -> Exec
+187 : Processo 2013232 Exec -> Pronto por tempo
+188 : Processo 2013232 Pronto -> Exec
+189 : Processo 2013232 Exec -> Pronto por tempo
+190 : Processo 2013232 Pronto -> Exec
+191 : Processo 2013232 Exec -> Pronto por tempo
