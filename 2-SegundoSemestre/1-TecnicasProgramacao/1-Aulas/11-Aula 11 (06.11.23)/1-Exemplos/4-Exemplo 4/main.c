@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <locale.h>
 
-
 int main() {
 	char conteudoArquivo[100];
 	setlocale(LC_ALL,"");
