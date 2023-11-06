@@ -7,7 +7,7 @@ int main() {
 	int val = 0;
 	setlocale(LC_ALL,"");
 	FILE *arq; 
-	arq = fopen("arquivo2.txt","w");
+	arq = fopen("arquivo2.txt","a");
 
 	for(val=1;val<=100;val++){
 		fprintf(arq,"\n%d",val);
