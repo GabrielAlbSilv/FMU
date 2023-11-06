@@ -30,6 +30,7 @@ int main() {
 	
 	printf("\nArquivo gravdo com sucesso!");
 	
+	//fechando o arquivo aberto
 	fclose(arq);
 	
 	return 0;

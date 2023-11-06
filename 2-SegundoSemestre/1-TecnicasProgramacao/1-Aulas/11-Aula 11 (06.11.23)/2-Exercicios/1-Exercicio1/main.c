@@ -11,9 +11,12 @@ int main() {
 	while(val!=0){
 		printf("\nDigite um número: ");
 		scanf("%d",&val);
-		fprintf(arq,"\n%d",val);
+		if(val == 0){
+			return 0;
+		}
+		fprintf(arq,"%d\n",val);
 	}
-	printf("\nArquivo gravdo com sucesso!");
+	printf("\nArquivo gravado com sucesso!");
 	fclose(arq);
 	
 	return 0;
