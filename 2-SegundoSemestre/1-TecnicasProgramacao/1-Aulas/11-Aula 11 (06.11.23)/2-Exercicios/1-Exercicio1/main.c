@@ -3,7 +3,8 @@
 #include <locale.h>
 
 int main() {
-	int val = 1;
+	int val = 1, i;
+	char string[100];
 	setlocale(LC_ALL,"");
 	FILE *arq; 
 	arq = fopen("arq.txt","a");
@@ -11,13 +12,18 @@ int main() {
 	while(val!=0){
 		printf("\nDigite um número: ");
 		scanf("%d",&val);
-		if(val == 0){
-			fclose(arq);
-			return 0;
+		if(val != 0){
+			fprintf(arq,"%d\n",val);
 		}
-		fprintf(arq,"%d\n",val);
 	}
-	printf("\nArquivo gravado com sucesso!");
 	fclose(arq);
+	printf("\nArquivo gravado com sucesso!");
+	printf("\nImprimindo os números:");
+	arq = fopen("arq.txt","r");
+	while (fgets(string,100,arq)){
+		printf("\n %s ",string);
+	}
+	fclose(arq);
+
 	return 0;
 }
