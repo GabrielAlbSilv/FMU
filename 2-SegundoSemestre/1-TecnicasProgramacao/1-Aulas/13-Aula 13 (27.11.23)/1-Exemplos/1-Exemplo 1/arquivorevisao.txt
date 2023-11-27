@@ -1,0 +1,4 @@
+-Maior valor: 10  
+-Menor valor: 1  
+-Média: 5,00  
+-Números maiores que a média: 5

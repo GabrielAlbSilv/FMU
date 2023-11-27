@@ -4,76 +4,56 @@
 
 int main() {
 	setlocale(LC_ALL,"");
-	char contArq[100];
-	int vet[10], i=0, vet2[10], ini, test, aux,vet3[i],cont;
-	float med=0;
+	int i=0;
+	int vet[10], pares[10], j=0, maior=1, menor=999;
+	float media;
+	int somaValores=0, pInicial, pTeste, aux, totMaiorMedia=0;
+	void imprimeVetor(int vet[]);
 	FILE *arq;
-	arq = fopen("resolucao.txt","w");
-
-//---Recebendo números
-
-	for(i=0;i<=9;i++){
-		printf("\n Digite um número(x%d): ",i+1);
+	
+	for(i=0;i<10;i++){
+		printf("\nDigite um número: ");
 		scanf("%d",&vet[i]);
-	}
-	fprintf(arq,"%s","--Números Digitados:");
-	for(i=0;i<=9;i++){
-		fprintf(arq,"  %d,",vet[i]);
-	}
-	
-//---Ordenando em ordem crescente
-
-	printf("\n Números ordenados: ");
-	for(ini=0;ini<9;ini++){
-		for(test=ini+1;test<10;test++){
-			if(vet[ini]>vet[test]){
-				aux=vet[ini];
-				vet[ini] = vet[test];
-				vet[test]=aux;
-			}
-		}
-	}
-	fprintf(arq,"\n%s","--Números Ordenados:");
-	for(i=0;i<=9;i++){
-		fprintf(arq,"  %d,",vet[i]);
-	}
-	for(i=0;i<=9;i++){
-		printf("\n - %d ",vet[i]);	
-	}
-	
-//---Separando números pares 
-
-	printf("\n Números pares: ");
-	fprintf(arq,"\n%s","--Números Pares:");
-	for(i=0;i<=9;i++){
 		if(vet[i]%2==0){
-			vet2[i]=vet[i];
-			printf("\n - %d ",vet2[i]);
-			
-			fprintf(arq,"   %d,",vet2[i]);
+			pares[j]=vet[i];
+			j++;
+		}
+		if(vet[i]>maior){
+			maior=vet[i];
+		}
+		if(vet[i]<menor){
+			menor=vet[i];
+		}
+		somaValores+=vet[i];
+	}
+	for(pInicial=0;pInicial<9;pInicial++){
+		for(pTeste= pInicial+1; pTeste<10; pTeste++){
+			if(vet[pInicial]>vet[pTeste]){
+			aux=vet[pInicial];
+			vet[pInicial] = vet[pTeste];
+			vet[pTeste] = aux;
+			}
+ 		}
+	}
+	media=somaValores/10;
+	for(i=0;i<10;i++){
+		if(vet[i]>media){
+			totMaiorMedia++;
 		}
 	}
-	
-//---Encontrando a média
-	for(i=0;i<=9;i++){
-		med = med+vet[i];
-	}
-	med = med/i;
-	printf("\n - Média: %.2f ",med);	
-	fprintf(arq,"\n%s","--Média:");
-	fprintf(arq," %.2f, ",med);
-
-//---Encontrando números maiores que a média
-	printf("\n Números maiores que a média: ");
-	fprintf(arq,"\n%s","--Números Maiores que a Média:");
-	for(i=0;i<=9;i++){
-		if (vet[i] > (med)){
-			vet3[i] = vet[i];
-			printf("\n - %d ",vet3[i]);
-			fprintf(arq," %d,",vet3[i]);
-			cont++;
-		}
-	}
+	imprimeVetor(vet);
+	arq = fopen("arquivorevisao.txt","w");
+	fprintf(arq,"-Maior valor: %d  ",maior);
+	fprintf(arq,"\n-Menor valor: %d  ",menor);
+	fprintf(arq,"\n-Média: %.2f  ",media);
+	fprintf(arq,"\n-Números maiores que a média: %d",totMaiorMedia);
 	fclose(arq);
 	return 0;
+}
+
+void imprimeVetor(int vet[]){
+	int i = 0;
+	for(i=0; i<10;i++){
+		printf("\n %d",vet[i]);
+	}
 }
