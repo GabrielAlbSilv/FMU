@@ -11,7 +11,7 @@ public class IMC {
         System.out.println("Insira a sua altura: ");
         altura=s.nextFloat();
         res = peso/(altura*altura);
-        if(res>30){
+        if(res>=30){
             System.out.println("IMC:"+res);
             System.out.println("Você está acima do peso");
         }else{

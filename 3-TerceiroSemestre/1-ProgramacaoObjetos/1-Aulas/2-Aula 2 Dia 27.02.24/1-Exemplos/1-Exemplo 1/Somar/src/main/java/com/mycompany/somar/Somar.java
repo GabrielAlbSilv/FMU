@@ -13,6 +13,6 @@ public class Somar {
      System.out.println("Insira um valor para B: ");
      b=s.nextInt();
      c=a+b;
-     System.out.println("Resultado de A+B = "+c);
+     System.out.println("Resultado de "+a+"+"+b+" = "+c);
     }
 }
