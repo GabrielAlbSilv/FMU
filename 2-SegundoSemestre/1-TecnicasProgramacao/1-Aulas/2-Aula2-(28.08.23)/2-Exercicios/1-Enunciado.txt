@@ -1,0 +1,7 @@
+1) Faça um programa que leia uma string e a imprima na tela.
+
+2) Faça um programa que leia uma string e imprima as quatro primeiras letras dela.
+
+3) Sem usar a função strlen(0). faça um programa que leia uma string e imprima quantos caracteres ela possui.
+
+4) Faça um programa que leia uma string e a imprima de trás para a frente.

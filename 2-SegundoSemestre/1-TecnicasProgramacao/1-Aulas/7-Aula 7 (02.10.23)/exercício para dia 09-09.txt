@@ -1,0 +1,4 @@
+Escreva os vetores resultantes ao aplicar o algoritmo de particionamento em duas partes no vetor seguinte: 
+26 65 45 73 10 18 78 93 70 49 23 22
+Ignore o valor do meio.
+
