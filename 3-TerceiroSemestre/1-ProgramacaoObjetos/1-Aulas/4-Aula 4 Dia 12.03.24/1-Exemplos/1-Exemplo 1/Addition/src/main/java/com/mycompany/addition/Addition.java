@@ -22,5 +22,6 @@ public class Addition {
        //"Resultado" nome da última caixa
        //JOptionPane.PLAIN_MESSAGE estilo de caixa
        JOptionPane.showMessageDialog(null,number1+" + "+number2+" = "+(number1+number2),"Resultado",JOptionPane.PLAIN_MESSAGE);
+       System.exit(0); // fecha tela sozinho
     }
 }
