@@ -18,5 +18,9 @@ public class Addition {
        //Convertento string para int
        number1=Integer.parseInt(firstNumber);
        number2=Integer.parseInt(secondNumber);
+       //null para caixa ficar centralizada
+       //"Resultado" nome da última caixa
+       //JOptionPane.PLAIN_MESSAGE estilo de caixa
+       JOptionPane.showMessageDialog(null,number1+" + "+number2+" = "+(number1+number2),"Resultado",JOptionPane.PLAIN_MESSAGE);
     }
 }
