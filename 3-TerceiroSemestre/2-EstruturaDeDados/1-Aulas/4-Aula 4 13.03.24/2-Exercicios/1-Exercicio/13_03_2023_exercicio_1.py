@@ -10,10 +10,13 @@ Original file is located at
 """
 
 sal = float(input("Digite o valor do salário: "))
+res = sal+(sal*0.10)
 if sal > 1250:
-  print("Aumento: 10% \nNovo Salário:",sal+(sal*0.10))
+  #print("Aumento: 10% \nNovo Salário:",sal+(sal*0.10))
+  print(f"Aumento: 10% \nNovo Salário: {res}")
 else:
-  print("Aumento: 15% \nNovo Salário:",sal+(sal*0.15))
+  #print("Aumento: 15% \nNovo Salário:",sal+(sal*0.15))
+  print(f"Aumento: 15% \nNovo Salário: {res}")
 
 """2)Escreva um programa que leia dois números e que pergunte qual operação você deseja realizar.
 Você deve poder calcular soma (+), subtração (-), multiplicação (*) e divisão (/). Exiba o resultado da operação solicitada
@@ -32,7 +35,10 @@ elif conta == '-':
   print(" %i - %i = %i"%(num1,num2,num1-num2))
 
 elif conta == '/':
-  print(" %i / %i = %i"%(num1,num2,num1/num2))
+  if num2 == 0:
+    print("Impossível dividir por zero")
+  else:
+    print(" %i / %i = %i"%(num1,num2,num1/num2))
 
 elif conta == '*':
   print(" %i x %i = %i"%(num1,num2,num1*num2))
