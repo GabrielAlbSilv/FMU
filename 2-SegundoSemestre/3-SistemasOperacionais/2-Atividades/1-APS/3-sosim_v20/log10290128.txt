@@ -1,0 +1,167 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+7 : Processo 2819384 alocacao de blocos no pagefile
+7 : Processo 2819384 HwPF - Executável0
+7 : Processo 2819384 HwPF - Executável1
+7 : Processo 2819384 HwPF - Executável2
+7 : Processo 2819384 HwPF - Executável3
+7 : Processo 2819384 HwPF - Executável4
+7 : Processo 2819384 criado
+8 : Processo 2819384 Pronto -> Exec
+9 : Processo 2819384 Exec -> Pronto por tempo
+10 : Processo 2819384 Pronto -> Exec
+11 : Processo 2819384 Exec -> Pronto por tempo
+12 : Processo 2819384 Pronto -> Exec
+13 : Processo 2819384 Exec -> Pronto por tempo
+14 : Processo 2819384 Pronto -> Exec
+15 : Processo 2819384 Exec -> Pronto por tempo
+16 : Processo 2819384 Pronto -> Exec
+17 : Processo 2819384 Exec -> Pronto por tempo
+18 : Processo 2819384 Pronto -> Exec
+19 : Processo 2819384 Exec -> Pronto por tempo
+20 : Processo 2819384 Pronto -> Exec
+21 : Processo 2819384 Exec -> Pronto por tempo
+22 : Processo 2819384 Pronto -> Exec
+23 : Processo 2819384 Exec -> Pronto por tempo
+24 : Processo 2819384 Pronto -> Exec
+25 : Processo 2819384 Exec -> Pronto por tempo
+26 : Processo 2819384 Pronto -> Exec
+27 : Processo 2819384 Exec -> Pronto por tempo
+28 : Processo 2819384 Pronto -> Exec
+29 : Processo 2819384 Exec -> Pronto por tempo
+30 : Processo 2819384 Pronto -> Exec
+31 : Processo 2819384 Exec -> Pronto por tempo
+32 : Processo 2819384 Pronto -> Exec
+33 : Processo 2819384 Exec -> Pronto por tempo
+34 : Processo 2819384 Pronto -> Exec
+35 : Processo 2819384 Exec -> Pronto por tempo
+36 : Processo 2819384 Pronto -> Exec
+37 : Processo 2819384 Exec -> Pronto por tempo
+38 : Processo 2819384 Pronto -> Exec
+39 : Processo 2819384 Exec -> Pronto por tempo
+40 : Processo 2819384 Pronto -> Exec
+41 : Processo 2819384 Exec -> Pronto por tempo
+42 : Processo 2819384 Pronto -> Exec
+43 : Processo 2819384 Exec -> Pronto por tempo
+44 : Processo 2819384 Pronto -> Exec
+45 : Processo 2819384 Exec -> Pronto por tempo
+46 : Processo 2819384 Pronto -> Exec
+47 : Processo 2819384 Exec -> Pronto por tempo
+48 : Processo 2819384 Pronto -> Exec
+49 : Processo 2819384 Exec -> Pronto por tempo
+50 : Processo 2819384 Pronto -> Exec
+51 : Processo 2819384 Exec -> Pronto por tempo
+52 : Processo 2819384 Pronto -> Exec
+53 : Processo 2819384 Exec -> Pronto por tempo
+54 : Processo 2819384 Pronto -> Exec
+55 : Processo 2819384 Exec -> Pronto por tempo
+56 : Processo 2819384 Pronto -> Exec
+57 : Processo 2819384 Exec -> Pronto por tempo
+58 : Processo 2819384 Pronto -> Exec
+59 : Processo 2819384 Exec -> Pronto por tempo
+60 : Processo 2819384 Pronto -> Exec
+61 : Processo 2819384 Exec -> Pronto por tempo
+62 : Processo 2819384 Pronto -> Exec
+63 : Processo 2819384 Exec -> Pronto por tempo
+64 : Processo 2819384 Pronto -> Exec
+65 : Processo 2819384 Exec -> Pronto por tempo
+66 : Processo 2819384 Pronto -> Exec
+67 : Processo 2819384 Exec -> Pronto por tempo
+68 : Processo 2819384 Pronto -> Exec
+68 : Processo 2819384 Executando -> Suspenso
+227 : Processo 3201455 alocacao de blocos no pagefile
+227 : Processo 3201455 HwPF - Executável0
+227 : Processo 3201455 HwPF - Executável1
+227 : Processo 3201455 HwPF - Executável2
+227 : Processo 3201455 HwPF - Executável3
+227 : Processo 3201455 HwPF - Executável4
+227 : Processo 3201455 criado
+227 : Processo 3201559 alocacao de blocos no pagefile
+227 : Processo 3201559 HwPF - Executável0
+227 : Processo 3201559 HwPF - Executável1
+227 : Processo 3201559 HwPF - Executável2
+227 : Processo 3201559 HwPF - Executável3
+227 : Processo 3201559 HwPF - Executável4
+227 : Processo 3201559 criado
+228 : Processo 3201455 Pronto -> Exec
+229 : Processo 3201455 Exec -> Pronto por tempo
+230 : Processo 3201559 Pronto -> Exec
+231 : Processo 3201559 Exec -> Pronto por tempo
+232 : Processo 3201455 Pronto -> Exec
+233 : Processo 3201455 Exec -> Pronto por tempo
+234 : Processo 3201559 Pronto -> Exec
+235 : Processo 3201559 Exec -> Pronto por tempo
+236 : Processo 3201455 Pronto -> Exec
+237 : Processo 3201455 Exec -> Pronto por tempo
+238 : Processo 3201559 Pronto -> Exec
+239 : Processo 3201559 Exec -> Pronto por tempo
+240 : Processo 3201455 Pronto -> Exec
+241 : Processo 3201455 Exec -> Pronto por tempo
+242 : Processo 3201559 Pronto -> Exec
+243 : Processo 3201559 Exec -> Pronto por tempo
+244 : Processo 3201455 Pronto -> Exec
+245 : Processo 3201455 Exec -> Pronto por tempo
+246 : Processo 3201559 Pronto -> Exec
+247 : Processo 3201559 Exec -> Pronto por tempo
+248 : Processo 3201455 Pronto -> Exec
+249 : Processo 3201455 Exec -> Pronto por tempo
+250 : Processo 3201559 Pronto -> Exec
+251 : Processo 3201559 Exec -> Pronto por tempo
+252 : Processo 3201455 Pronto -> Exec
+253 : Processo 3201455 Exec -> Pronto por tempo
+254 : Processo 3201559 Pronto -> Exec
+255 : Processo 3201559 Exec -> Pronto por tempo
+256 : Processo 3201455 Pronto -> Exec
+257 : Processo 3201455 Exec -> Pronto por tempo
+258 : Processo 3201559 Pronto -> Exec
+259 : Processo 3201559 Exec -> Pronto por tempo
+260 : Processo 3201455 Pronto -> Exec
+261 : Processo 3201455 Exec -> Pronto por tempo
+262 : Processo 3201559 Pronto -> Exec
+263 : Processo 3201559 Exec -> Pronto por tempo
+264 : Processo 3201455 Pronto -> Exec
+265 : Processo 3201455 Exec -> Pronto por tempo
+266 : Processo 3201559 Pronto -> Exec
+267 : Processo 3201559 Exec -> Pronto por tempo
+268 : Processo 3201455 Pronto -> Exec
+269 : Processo 3201455 Exec -> Pronto por tempo
+270 : Processo 3201559 Pronto -> Exec
+271 : Processo 3201559 Exec -> Pronto por tempo
+272 : Processo 3201455 Pronto -> Exec
+273 : Processo 3201455 Exec -> Pronto por tempo
+274 : Processo 3201559 Pronto -> Exec
+275 : Processo 3201559 Exec -> Pronto por tempo
+276 : Processo 3201455 Pronto -> Exec
+276 : Processo 3201455 Executando -> Suspenso
+277 : Processo 3201559 Pronto -> Exec
+278 : Processo 3201559 Exec -> Pronto por tempo
+279 : Processo 3201559 Pronto -> Exec
+280 : Processo 3201559 Exec -> Pronto por tempo
+281 : Processo 3201559 Pronto -> Exec
+282 : Processo 3201559 Exec -> Pronto por tempo
+283 : Processo 3201559 Pronto -> Exec
+283 : Processo 3201559 Executando -> Suspenso
+292 : Processo 3201455 Pronto -> Exec
+293 : Processo 3201455 Exec -> Pronto por tempo
+294 : Processo 3201455 Pronto -> Exec
+295 : Processo 3201455 Exec -> Pronto por tempo
+296 : Processo 3201455 Pronto -> Exec
+297 : Processo 3201455 Exec -> Pronto por tempo
+298 : Processo 3201455 Pronto -> Exec
+299 : Processo 3201455 Exec -> Pronto por tempo
+300 : Processo 3201455 Pronto -> Exec
+301 : Processo 3201455 Exec -> Pronto por tempo
+302 : Processo 3201455 Pronto -> Exec
+303 : Processo 3201455 Exec -> Pronto por tempo
+304 : Processo 3201455 Pronto -> Exec
+305 : Processo 3201455 Exec -> Pronto por tempo
+306 : Processo 3201455 Pronto -> Exec
+307 : Processo 3201455 Exec -> Pronto por tempo
+308 : Processo 3201455 Pronto -> Exec
+309 : Processo 3201455 Exec -> Pronto por tempo
+310 : Processo 3201455 Pronto -> Exec
+311 : Processo 3201455 Exec -> Pronto por tempo
+312 : Processo 3201455 Pronto -> Exec
+313 : Processo 3201455 Exec -> Pronto por tempo
+314 : Processo 3201455 Pronto -> Exec
+314 : Processo 3201455 Executando -> Suspenso

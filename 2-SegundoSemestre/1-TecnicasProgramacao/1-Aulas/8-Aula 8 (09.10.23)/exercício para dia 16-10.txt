@@ -1,0 +1,15 @@
+Exercícios de matriz
+
+1) Declare uma matriz 5 x 5 (quadrada). Preencha com 1 a diagonal principal e com 0 os demais
+elementos. Escreva ao final a matriz obtida.
+
+m[0][0]=1;   i=j ==> 1
+m[0][1]=0;
+m[0][2]=0;
+m[0][3]=0;
+m[0][4]=0;
+m[1][1]=1;
+
+2)Faça um programa que preenche uma matriz 4 x 4 com o produto do valor da linha e da coluna de cada elemento. Em seguida, imprima na tela a matriz.
+
+3)Leia uma matriz de 3 x 3 elementos. Calcule e imprima a sua transposta.

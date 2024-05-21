@@ -1,0 +1,6 @@
+Código: 0001
+Nome: GABRIEL
+Cargo: PROGRAMADOR
+Salário: 5000
+CPF: XXXYYYZZZXX
+Telefone: XX-YYYYY-ZZZZ

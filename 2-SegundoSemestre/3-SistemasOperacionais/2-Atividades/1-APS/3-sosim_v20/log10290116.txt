@@ -1,0 +1,28 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+29 : Processo 1648225 alocacao de blocos no pagefile
+29 : Processo 1648225 HwPF - Executável0
+29 : Processo 1648225 HwPF - Executável1
+29 : Processo 1648225 HwPF - Executável2
+29 : Processo 1648225 HwPF - Executável3
+29 : Processo 1648225 HwPF - Executável4
+29 : Processo 1648225 criado
+30 : Processo 1648225 Pronto -> Exec
+31 : Processo 1648225 Exec -> Pronto por tempo
+32 : Processo 1648225 Pronto -> Exec
+33 : Processo 1648225 Exec -> Pronto por tempo
+33 : Processo 1652097 alocacao de blocos no pagefile
+33 : Processo 1652097 HwPF - Executável0
+33 : Processo 1652097 HwPF - Executável1
+33 : Processo 1652097 HwPF - Executável2
+33 : Processo 1652097 HwPF - Executável3
+33 : Processo 1652097 HwPF - Executável4
+33 : Processo 1652097 criado
+34 : Processo 1648225 Pronto -> Exec
+35 : Processo 1648225 Exec -> Pronto por tempo
+36 : Processo 1648225 Pronto -> Exec
+37 : Processo 1648225 Exec -> Pronto por tempo
+38 : Processo 1648225 Pronto -> Exec
+39 : Processo 1648225 Exec -> Pronto por tempo
+40 : Processo 1648225 Pronto -> Exec
+41 : Processo 1648225 Exec -> Pronto por tempo
